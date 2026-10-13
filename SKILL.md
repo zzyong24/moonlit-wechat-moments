@@ -4,7 +4,7 @@ description: 月明水清深自媒体朋友圈文案生成 sub-skill。**调性�
 metadata:
   display_name: 月明·朋友圈文案
   icon: icon.svg
-  updated: "2026-09-06"
+  updated: "2026-10-04"
 ---
 
 # 🌙 moonlit-wechat-moments · 朋友圈（自媒体版）
@@ -13,6 +13,10 @@ metadata:
 
 - 主入口 moonlit-content-engine 引导要做朋友圈时
 - 用户单独要求"做朋友圈文案"（自媒体调性）
+
+## 共同输入
+
+按当前工程激活目录读取 `moonlit-content-engine/references/content-master-contract.md`，从作品 contentMaster 或已确认口述/简述、证据与真实经历起稿。公众号只是可选材料源，不作为前置门槛。独立组织朋友圈读者的使用场景与关系语境，不能机械缩写公众号；事实范围不扩张。产物登记实际 inputs，稿件与知识回流遵守工作区规范。
 
 ## 调性定位（**关键**）
 
@@ -91,7 +95,7 @@ MMDDHHMM-[纯中文主题]-朋友圈.md
 
 - `moonlit-brand-overlay.md`（品牌规范）
 - `moonlit-topic-engine`（选题来源）
-- 公众号长文（作为朋友圈文案的素材源）
+- 已确认共同任务卡、口述或核心稿；公众号长文可作为其中一种材料源
 
 ## 范本参考
 
